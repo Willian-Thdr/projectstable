@@ -11,7 +11,7 @@ async function start() {
 
     export_data.forEach(element => {
         repository_names.push(element.name);
-        // repository_link.push(element.language);
+        repository_link.push(element.language);
 
         console.log(element.language);
     });
