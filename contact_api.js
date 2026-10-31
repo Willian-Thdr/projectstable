@@ -6,4 +6,8 @@ async function get_data() {
     return data;
 }
 
-export const export_data = await get_data();
+// export const export_data = await get_data();
+
+const teste = await get_data();
+
+console.log(teste.lanuage);

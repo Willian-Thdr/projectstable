@@ -1,9 +1,10 @@
-import { export_data } from "./contact_api.js";
+import { get_data } from "./contact_api.js";
 
 const project = document.querySelectorAll(".Projects");
 const link = document.querySelectorAll(".Languages");
 
 async function start() {
+    const export_data = await get_data();
     const repository_names = [];
     const separate_repository_link = [];
     const repository_link = [];
