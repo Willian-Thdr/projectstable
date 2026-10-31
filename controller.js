@@ -1,4 +1,4 @@
-import { export_data } from "./contact_api.js";
+import { export_data } from "../projectstable/contact_api.js";
 
 const project = document.querySelectorAll(".Projects");
 const link = document.querySelectorAll(".Links");
