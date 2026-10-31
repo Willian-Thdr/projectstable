@@ -8,7 +8,7 @@ async function start() {
     const separate_repository_link = [];
     const repository_link = [];
 
-    export_data .forEach(element => {
+    export_data.forEach(element => {
         repository_names.push(element.name);
         repository_link.push(element.language);
 
