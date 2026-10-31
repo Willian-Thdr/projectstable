@@ -1,7 +1,7 @@
 import { export_data } from "./contact_api.js";
 
 const project = document.querySelectorAll(".Projects");
-const link = document.querySelectorAll(".Links");
+const link = document.querySelectorAll(".Languages");
 
 async function start() {
     const repository_names = [];
@@ -10,7 +10,7 @@ async function start() {
 
     export_data.forEach(element => {
         repository_names.push(element.name);
-        repository_link.push(element.html_url);
+        repository_link.push(element.language);
     });
 
     let random;
