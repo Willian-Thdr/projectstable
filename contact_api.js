@@ -5,3 +5,5 @@ export async function get_data() {
 
     return data;
 }
+
+export const export_data = await get_data();
