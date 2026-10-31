@@ -32,6 +32,6 @@ async function start() {
         element.href = separate_repository_link[i];
         i+=1;
     });
-        }
+}
 
 start();
