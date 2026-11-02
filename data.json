@@ -2,28 +2,16 @@
     {
         "project_name": "APISystemaStudy",
         "languages": {
-            "lang": {
-                "message": "Not Found",
-                "documentation_url": "https://docs.github.com/rest/repos/repos#list-repository-languages",
-                "status": "404"
-            }
+            "lang": {}
         }
     },
     {
         "project_name": "CrypterMode",
         "languages": {
             "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
-            }
-        }
-    },
-    {
-        "project_name": "aulas_pmq",
-        "languages": {
-            "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+                "C#": 5506,
+                "Inno Setup": 3449,
+                "Batchfile": 1148
             }
         }
     },
@@ -31,17 +19,9 @@
         "project_name": "central_hq",
         "languages": {
             "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
-            }
-        }
-    },
-    {
-        "project_name": "Gerenciador_De_Pacotes",
-        "languages": {
-            "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+                "Java": 12214,
+                "CSS": 606,
+                "Batchfile": 138
             }
         }
     },
@@ -49,62 +29,25 @@
         "project_name": "Controle-de-fila",
         "languages": {
             "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+                "Java": 11235,
+                "CSS": 5088,
+                "Batchfile": 172
             }
         }
     },
     {
-        "project_name": "Fluxogrammer",
+        "project_name": "aulas_pmq",
         "languages": {
             "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+                "Python": 1519
             }
         }
     },
     {
-        "project_name": "Taskeasy_Manager",
+        "project_name": "Gerenciador_De_Pacotes",
         "languages": {
             "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
-            }
-        }
-    },
-    {
-        "project_name": "projectstable",
-        "languages": {
-            "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
-            }
-        }
-    },
-    {
-        "project_name": "GoodWriter",
-        "languages": {
-            "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
-            }
-        }
-    },
-    {
-        "project_name": "Willian-Thdr",
-        "languages": {
-            "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
-            }
-        }
-    },
-    {
-        "project_name": "XamlRender",
-        "languages": {
-            "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+                "C#": 63162
             }
         }
     },
@@ -112,8 +55,65 @@
         "project_name": "MyKnowledgeLibrary",
         "languages": {
             "lang": {
-                "message": "API rate limit exceeded for 187.34.56.44. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
-                "documentation_url": "https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
+                "Batchfile": 121
+            }
+        }
+    },
+    {
+        "project_name": "Taskeasy_Manager",
+        "languages": {
+            "lang": {
+                "C#": 24231,
+                "Inno Setup": 4394,
+                "JavaScript": 1081
+            }
+        }
+    },
+    {
+        "project_name": "GoodWriter",
+        "languages": {
+            "lang": {
+                "CSS": 10777,
+                "JavaScript": 8049,
+                "HTML": 5807,
+                "Python": 1018,
+                "Batchfile": 51,
+                "Shell": 47
+            }
+        }
+    },
+    {
+        "project_name": "Fluxogrammer",
+        "languages": {
+            "lang": {
+                "C#": 41413,
+                "Inno Setup": 4603,
+                "JavaScript": 1138
+            }
+        }
+    },
+    {
+        "project_name": "Willian-Thdr",
+        "languages": {
+            "lang": {}
+        }
+    },
+    {
+        "project_name": "XamlRender",
+        "languages": {
+            "lang": {
+                "C#": 5016,
+                "Inno Setup": 3632
+            }
+        }
+    },
+    {
+        "project_name": "projectstable",
+        "languages": {
+            "lang": {
+                "JavaScript": 2067,
+                "HTML": 1362,
+                "CSS": 228
             }
         }
     }
